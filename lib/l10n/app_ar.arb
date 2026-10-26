@@ -1,0 +1,42 @@
+{
+  "@@locale": "ar",
+  "home": "الرئيسية",
+  "appName": "تطبيق الأخبار",
+  "goHome": "العودة للرئيسية",
+  "theme": "المظهر",
+  "light": "فاتح",
+  "dark": "داكن",
+  "language": "اللغة",
+  "english": "الإنجليزية",
+  "arabic": "العربية",
+  "search": "بحث",
+  "clearSearch": "مسح البحث",
+  "greeting": "صباح الخير\nإليك بعض الأخبار",
+  "viewAll": "عرض الكل",
+  "general": "عام",
+  "business": "أعمال",
+  "sports": "رياضة",
+  "technology": "تكنولوجيا",
+  "entertainment": "ترفيه",
+  "health": "صحة",
+  "science": "علوم",
+  "searchPrompt": "ابحث عن الأخبار.",
+  "noResults": "لا توجد أخبار. جرّب كلمة بحث أخرى.",
+  "noMore": "لا توجد أخبار أخرى.",
+  "retry": "إعادة المحاولة",
+  "noSources": "لا توجد مصادر أخبار متاحة.",
+  "loadError": "تعذّر تحميل الأخبار. تحقق من اتصالك وحاول مجددًا.",
+  "invalidLink": "لا يوجد رابط صالح لهذا الخبر.",
+  "openError": "تعذّر فتح الخبر. حاول مجددًا.",
+  "readMore": "اقرأ الخبر كاملًا لمزيد من التفاصيل.",
+  "opening": "جارٍ الفتح...",
+  "fullArticle": "عرض الخبر كاملًا",
+  "byAuthor": "بواسطة: {author}",
+  "@byAuthor": {
+    "placeholders": {
+      "author": {
+        "type": "String"
+      }
+    }
+  }
+}

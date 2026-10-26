@@ -1,0 +1,42 @@
+{
+  "@@locale": "en",
+  "home": "Home",
+  "appName": "News App",
+  "goHome": "Go to Home",
+  "theme": "Theme",
+  "light": "Light",
+  "dark": "Dark",
+  "language": "Language",
+  "english": "English",
+  "arabic": "Arabic",
+  "search": "Search",
+  "clearSearch": "Clear search",
+  "greeting": "Good Morning\nHere is Some News For You",
+  "viewAll": "View All",
+  "general": "General",
+  "business": "Business",
+  "sports": "Sports",
+  "technology": "Technology",
+  "entertainment": "Entertainment",
+  "health": "Health",
+  "science": "Science",
+  "searchPrompt": "Search for news articles.",
+  "noResults": "No articles found. Try another keyword.",
+  "noMore": "No more articles.",
+  "retry": "Retry",
+  "noSources": "No news sources available.",
+  "loadError": "Unable to load news. Check your connection and try again.",
+  "invalidLink": "This article has no valid link.",
+  "openError": "Could not open the article. Please try again.",
+  "readMore": "Read the full article for more details.",
+  "opening": "Opening...",
+  "fullArticle": "View Full Article",
+  "byAuthor": "By: {author}",
+  "@byAuthor": {
+    "placeholders": {
+      "author": {
+        "type": "String"
+      }
+    }
+  }
+}
